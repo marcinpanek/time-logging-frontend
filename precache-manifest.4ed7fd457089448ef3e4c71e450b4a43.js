@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79fe782ca367d5142a45ce2ba17e7da2",
+    "revision": "9ed030c89f0b85b63a5f1c20177cbee3",
     "url": "/time-logging-frontend/index.html"
   },
   {
-    "revision": "627d9882a15476f8105f",
+    "revision": "9384fb55b11b10492783",
     "url": "/time-logging-frontend/static/css/main.27fd15f6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/time-logging-frontend/static/js/2.5a240f08.chunk.js"
   },
   {
-    "revision": "627d9882a15476f8105f",
-    "url": "/time-logging-frontend/static/js/main.979ad323.chunk.js"
+    "revision": "9384fb55b11b10492783",
+    "url": "/time-logging-frontend/static/js/main.73b5fde0.chunk.js"
   },
   {
     "revision": "5ba43b1ebb65bdfe6a42",

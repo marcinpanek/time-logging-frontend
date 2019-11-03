@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/time-logging-frontend/static/css/main.27fd15f6.chunk.css",
-    "main.js": "/time-logging-frontend/static/js/main.979ad323.chunk.js",
-    "main.js.map": "/time-logging-frontend/static/js/main.979ad323.chunk.js.map",
+    "main.js": "/time-logging-frontend/static/js/main.73b5fde0.chunk.js",
+    "main.js.map": "/time-logging-frontend/static/js/main.73b5fde0.chunk.js.map",
     "runtime-main.js": "/time-logging-frontend/static/js/runtime-main.1b8bf262.js",
     "runtime-main.js.map": "/time-logging-frontend/static/js/runtime-main.1b8bf262.js.map",
     "static/js/2.5a240f08.chunk.js": "/time-logging-frontend/static/js/2.5a240f08.chunk.js",
     "static/js/2.5a240f08.chunk.js.map": "/time-logging-frontend/static/js/2.5a240f08.chunk.js.map",
     "index.html": "/time-logging-frontend/index.html",
-    "precache-manifest.5dfb2a1730630a31b6edb09a740795bb.js": "/time-logging-frontend/precache-manifest.5dfb2a1730630a31b6edb09a740795bb.js",
+    "precache-manifest.4ed7fd457089448ef3e4c71e450b4a43.js": "/time-logging-frontend/precache-manifest.4ed7fd457089448ef3e4c71e450b4a43.js",
     "service-worker.js": "/time-logging-frontend/service-worker.js",
     "static/css/main.27fd15f6.chunk.css.map": "/time-logging-frontend/static/css/main.27fd15f6.chunk.css.map"
   }
